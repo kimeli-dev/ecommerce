@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <name>BURGAR</name>
+        <price>30.00</price>
+        <image>burgar.jpg</image>
+        <description>This is a great product.</description>
+    </product>
+    <product>
+    
+        <name>CHIPS</name>
+        <price>50.00</price>
+        <image>chips.jpg</image>
+        <description>This is another great product.</description>
+    
+    </product>
+
+    <product>
+    <name>airforce</name>
+    <price>90.00</price>
+    <image>utentsils.jpg</image>
+    <description>This is an amazing product that you will love.</description>
+    </product>
+
+    
+    <product>
+    <name>TIMBERLAND</name>
+    <price>400.00</price>
+    <image>timberland.jpg</image>
+    <description>This is an amazing product that you will love.</description>
+    </product>
+
+    <product>
+    <name>Product C</name>
+    <price>50.00</price>
+    <image>airforce.jpg</image>
+    <description>This is an amazing product that you will love.</description>
+    </product>
+    
+    <product>
+    <name>CAKE </name>
+    <price>80.00</price>
+    <image>cake.jpg</image>
+    <description>This is an amazing product that you will love.</description>
+    </product>
+
+ <product>
+    <name>LAPTOPSTAND</name>
+    <price>50.00</price>
+    <image>setup.jpg</image>
+    <description>This is an amazing product that you will love.</description>
+    </product>
+    
+     <product>
+    <name>KNIFW</name>
+    <price>50.00</price>
+    <image>knifw.jpg</image>
+    <description>This is an amazing product that you will love.</description>
+    </product>
+    
+
+     <product>
+    <name>PLATE</name>
+    <price>50.00</price>
+    <image>plate.jpg</image>
+    <description>This is an amazing product that you will love.</description>
+    </product>
+
+     <product>
+    <name>MACBOOK</name>
+    <price>50.00</price>
+    <image>mac.jpg</image>
+    <description>This is an amazing product that you will love.</description>
+    </product>
+    
+
+ <product>
+    <name>STUDIO</name>
+    <price>50.00</price>
+    <image>stand.jpg</image>
+    <description>This is an amazing product that you will love.</description>
+    </product>
+    
+    
+
+
+
+</products>
