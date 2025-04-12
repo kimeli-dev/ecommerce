@@ -16,7 +16,7 @@
     </product>
 
     <product>
-    <name>airforce</name>
+    <name>UTENSILS</name>
     <price>90.00</price>
     <image>utentsils.jpg</image>
     <description>This is an amazing product that you will love.</description>
@@ -31,7 +31,7 @@
     </product>
 
     <product>
-    <name>Product C</name>
+    <name>AIRFORCE</name>
     <price>50.00</price>
     <image>airforce.jpg</image>
     <description>This is an amazing product that you will love.</description>
@@ -52,7 +52,7 @@
     </product>
     
      <product>
-    <name>KNIFW</name>
+    <name>KNIFE</name>
     <price>50.00</price>
     <image>knifw.jpg</image>
     <description>This is an amazing product that you will love.</description>
